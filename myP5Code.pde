@@ -12,9 +12,11 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
-
-  
-
+line(0,326,114,312)
+line(48,336,178,325)
+line(130,341,285,330)
+line(263,342,383,339)
+line(360,335,380,336)
 }
 
 //🟡Extra FUN Features Ms. Hall Added
