@@ -13,16 +13,17 @@ void draw(){
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
 
 //grass  
-line(0,326,114,312)
-line(48,336,178,325)
-line(130,341,285,330)
-line(263,342,383,339)
-line(360,335,380,336)
+line(0,326,114,312);
+line(48,336,178,325);
+line(130,341,285,330);
+line(263,342,383,339);
+line(360,335,380,336);
 
 //bird
-arc(150,186,100, 70, radians(100), radians(280))
-ellpise(143,258,197,253)
-
+arc(150,186,100, 70, radians(100), radians(280));
+arc(175,230,85,35 ,radians(177), radians(360));
+arc(160,126,80,50, radians(270), radians(450));
+arc()
 }
 
 
