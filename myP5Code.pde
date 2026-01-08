@@ -7,7 +7,7 @@ void setup() {
 
 //🟢Draw Procedure - Runs on Repeat
 void draw(){
-  fill(255,255,255);
+  fill(255,255,255,0);
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
@@ -31,6 +31,18 @@ line(255,239,246,223);
 line(272,204,245,221);
 line(271,202,297,201);
 line(296,199,311,201);
+line(175,164,205,160);
+line(217,159,240,167);
+line(256,300,326,283);
+line(327,284,354,296);
+line(259,298,321,317);
+line(320,317,335,315);
+line(352,295,334,314);
+strokeWeight(2)
+line(223,303,223,313);
+
+arc(200,192,90,50, radians (0), radians (90));
+
 }
 
 
